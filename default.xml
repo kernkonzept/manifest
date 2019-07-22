@@ -22,4 +22,5 @@
   <project name="libvcpu" path="l4/pkg/libvcpu" />
   <project name="mk" path="l4" />
   <project name="uvmm" path="l4/pkg/uvmm" />
+  <project name="virtio-net" path="l4/pkg/virtio-net" />
 </manifest>
