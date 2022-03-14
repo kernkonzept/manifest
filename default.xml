@@ -23,4 +23,5 @@
   <project name="mk" path="l4" />
   <project name="uvmm" path="l4/pkg/uvmm" />
   <project name="virtio-net" path="l4/pkg/virtio-net" />
+  <project name="zlib" path="l4/pkg/zlib" />
 </manifest>
