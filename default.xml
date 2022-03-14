@@ -21,6 +21,7 @@
   <project name="libfdt" path="l4/pkg/libfdt" />
   <project name="libvcpu" path="l4/pkg/libvcpu" />
   <project name="mk" path="l4" />
+  <project name="readline" path="l4/pkg/readline" />
   <project name="uvmm" path="l4/pkg/uvmm" />
   <project name="virtio-net" path="l4/pkg/virtio-net" />
   <project name="zlib" path="l4/pkg/zlib" />
