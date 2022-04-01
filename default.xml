@@ -10,6 +10,7 @@
     remote="origin"
   />
   <project name="acpica" path="l4/pkg/acpica" />
+  <project name="ahci-driver" path="l4/pkg/ahci-driver" />
   <project name="bootstrap" path="l4/pkg/bootstrap" />
   <project name="cons" path="l4/pkg/cons" />
   <project name="drivers-frst" path="l4/pkg/drivers-frst" />
@@ -18,6 +19,7 @@
   <project name="io" path="l4/pkg/io" />
   <project name="l4re-core" path="l4/pkg/l4re-core" />
   <project name="l4virtio" path="l4/pkg/l4virtio" />
+  <project name="libblock-device" path="l4/pkg/libblock-device" />
   <project name="libfdt" path="l4/pkg/libfdt" />
   <project name="libvcpu" path="l4/pkg/libvcpu" />
   <project name="mk" path="l4" />
