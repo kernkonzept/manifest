@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote
+    name="origin"
+    fetch=".."
+    review=".."
+  />
+  <default
+    revision="t2023-03-30-nommu"
+    remote="origin"
+  />
+  <project name="bootstrap" path="l4/pkg/bootstrap" />
+  <project name="drivers-frst" path="l4/pkg/drivers-frst" />
+  <project name="fiasco" path="fiasco" />
+  <project name="l4re-core" path="l4/pkg/l4re-core" />
+  <project name="libfdt" path="l4/pkg/libfdt" />
+  <project name="mk" path="l4" />
+  <project name="tinit" path="l4/pkg/tinit" />
+  <project name="tvmm" path="l4/pkg/tvmm" />
+</manifest>
