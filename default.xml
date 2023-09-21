@@ -18,6 +18,7 @@
   <project name="fiasco" path="fiasco" />
   <project name="hello" path="l4/pkg/hello" />
   <project name="io" path="l4/pkg/io" />
+  <project name="l4_virtio-net-switch" path="l4/pkg/virtio-net-switch" />
   <project name="l4re-core" path="l4/pkg/l4re-core" />
   <project name="l4virtio" path="l4/pkg/l4virtio" />
   <project name="libblock-device" path="l4/pkg/libblock-device" />
