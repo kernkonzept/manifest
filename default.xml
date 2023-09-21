@@ -11,6 +11,7 @@
   />
   <project name="acpica" path="l4/pkg/acpica" />
   <project name="ahci-driver" path="l4/pkg/ahci-driver" />
+  <project name="atkins" path="l4/pkg/atkins" />
   <project name="bootstrap" path="l4/pkg/bootstrap" />
   <project name="cons" path="l4/pkg/cons" />
   <project name="drivers-frst" path="l4/pkg/drivers-frst" />
