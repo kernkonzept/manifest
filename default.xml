@@ -28,6 +28,7 @@
   <project name="mk" path="l4" />
   <project name="nvme-driver" path="l4/pkg/nvme-driver" />
   <project name="readline" path="l4/pkg/readline" />
+  <project name="rtc" path="l4/pkg/rtc" />
   <project name="uvmm" path="l4/pkg/uvmm" />
   <project name="virtio-net" path="l4/pkg/virtio-net" />
   <project name="zlib" path="l4/pkg/zlib" />
