@@ -6,7 +6,7 @@
     review=".."
   />
   <default
-    revision="t2023-10-27-nommu"
+    revision="t2024-09-04-nommu"
     remote="origin"
   />
   <project name="bootstrap" path="l4/pkg/bootstrap" />
