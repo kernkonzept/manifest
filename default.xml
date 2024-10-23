@@ -15,6 +15,7 @@
   <project name="bootstrap" path="l4/pkg/bootstrap" />
   <project name="cons" path="l4/pkg/cons" />
   <project name="drivers-frst" path="l4/pkg/drivers-frst" />
+  <project name="emmc-driver" path="l4/pkg/emmc-driver" />
   <project name="gnu-efi" path="l4/pkg/gnu-efi" />
   <project name="fiasco" path="fiasco" />
   <project name="hello" path="l4/pkg/hello" />
