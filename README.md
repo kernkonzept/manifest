@@ -14,8 +14,9 @@ including libraries and process-local functionality.
 
 ## Build
 
-Please see our detailed instructions on [how to build](BUILDING) L4Re using the
-manifest in this repo.
+Please see our detailed instructions on
+[how to build](https://github.com/kernkonzept/manifest/wiki/BUILDING) L4Re
+using the manifest in this repo.
 
 ## Tutorials
 
