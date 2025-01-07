@@ -23,7 +23,7 @@ using the manifest in this repo.
   * [Building L4Re](https://github.com/kernkonzept/manifest/wiki/BUILDING)
   * [Running a Linux guest VM](https://github.com/kernkonzept/manifest/wiki/LinuxVM)
   * [Running multiple Linux guest VMs](https://github.com/kernkonzept/manifest/wiki/MultipleVMs)
-  * [Hardware pass-through to the VM](https://github.com/kernkonzept/manifest/wiki/NVMeWithLinux)
+  * [Hardware pass-through to the VM](https://github.com/kernkonzept/manifest/wiki/HwPassThrough)
   * [Using the NVMe server with a Linux guest VM](https://github.com/kernkonzept/manifest/wiki/NVMeWithLinux)
   * [Demo of the L4Re Micro Hypervisor for MPU-based systems](https://github.com/kernkonzept/demo-l4re-micro-hypervisor)
 
