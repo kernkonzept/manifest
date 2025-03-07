@@ -10,6 +10,7 @@
     remote="origin"
   />
   <project name="acpica" path="l4/pkg/acpica" />
+  <project name="ada" path="l4/pkg/ada" />
   <project name="ahci-driver" path="l4/pkg/ahci-driver" />
   <project name="atkins" path="l4/pkg/atkins" />
   <project name="bootstrap" path="l4/pkg/bootstrap" />
