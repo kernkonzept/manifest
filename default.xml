@@ -13,6 +13,7 @@
   <project name="ada" path="l4/pkg/ada" />
   <project name="ahci-driver" path="l4/pkg/ahci-driver" />
   <project name="atkins" path="l4/pkg/atkins" />
+  <project name="bcm2835-mbox-driver" path="l4/pkg/bcm2835-mbox-driver" />
   <project name="bootstrap" path="l4/pkg/bootstrap" />
   <project name="cons" path="l4/pkg/cons" />
   <project name="drivers-frst" path="l4/pkg/drivers-frst" />
@@ -20,6 +21,7 @@
   <project name="gnu-efi" path="l4/pkg/gnu-efi" />
   <project name="fiasco" path="fiasco" />
   <project name="hello" path="l4/pkg/hello" />
+  <project name="i2c-driver" path="l4/pkg/i2c-driver" />
   <project name="io" path="l4/pkg/io" />
   <project name="l4_virtio-net-switch" path="l4/pkg/virtio-net-switch" />
   <project name="l4re-core" path="l4/pkg/l4re-core" />
