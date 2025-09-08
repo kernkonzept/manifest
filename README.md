@@ -34,7 +34,6 @@ contribute](CONTRIBUTING).
 
 ## License
 
-The L4Re manifest is licensed under GPL-2.0-only unless you have received this
-package under a different license from Kernkonzept. The other L4Re repositories
+The L4Re manifest is licensed under MIT. The other L4Re repositories
 contain a LICENSE.spdx file with detailed license information. For more
 information please contact us at **info@kernkonzept.com**.
