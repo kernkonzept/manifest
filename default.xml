@@ -6,7 +6,6 @@
     review=".."
   />
   <default
-    revision="master"
     remote="origin"
   />
   <project name="acpica" path="l4/pkg/acpica" />
